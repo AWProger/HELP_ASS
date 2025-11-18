@@ -18,5 +18,5 @@ Unchker
 Драйвера
 UltraF4
 Vs code
-Unlocker,
+Unlocker
 Unchker
