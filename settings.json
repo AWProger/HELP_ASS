@@ -1,0 +1,54 @@
+{
+  // 🎨 Визуал
+  "workbench.colorTheme": "GitHub Dark Dimmed",
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.productIconTheme": "fluent-icons",
+
+  // Шрифты
+  "editor.fontFamily": "JetBrains Mono, Fira Code, Consolas, monospace",
+  "editor.fontLigatures": true,
+  "editor.fontSize": 15,
+
+  // ⚡ Удобство и плавность
+  "editor.smoothScrolling": true,
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.fastScrollSensitivity": 3,
+  "editor.minimap.enabled": false,
+  "editor.mouseWheelZoom": true,
+
+  // 🧠 Автосохранение и форматирование
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 800,
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+
+  // 🔍 Поиск и навигация
+  "search.useIgnoreFiles": false,
+  "search.exclude": {
+    "node_modules": true,
+    "dist": true
+  },
+  "breadcrumbs.enabled": true,
+  "editor.gotoLocation.multipleDefinitions": "goto",
+
+  // 🧩 Подсказки и линтеры
+  "editor.parameterHints.enabled": true,
+  "editor.inlayHints.enabled": "on",
+
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "always"
+  },
+
+  "javascript.suggestionActions.enabled": true,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+
+  // 🌙 Терминал
+  "terminal.integrated.fontFamily": "JetBrains Mono",
+  "terminal.integrated.cursorStyle": "line",
+  "terminal.integrated.cursorBlinking": true,
+
+  // 🚀 Workflow
+  "workbench.editor.limit.enabled": true,
+  "workbench.editor.limit.perEditorGroup": true,
+  "workbench.editor.limit.value": 7
+}
